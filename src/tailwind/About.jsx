@@ -15,10 +15,10 @@ const About = () => {
               <span className="text-green-300">
                 <Typewriter
                   words={[
-                    "Sutudent",
-                    "Forntend Developer",
-                    "UI/UX Euthusiast",
-                    "Data Scientiest",
+                    "Student",
+                    "Frontend Developer",
+                    "UI/UX Enthusiast",
+                    "Data Scientist",
                   ]}
                   loop={0}
                   crusor

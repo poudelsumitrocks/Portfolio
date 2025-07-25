@@ -25,7 +25,7 @@
 //         <TextForm heading="Enter the text to analyse below "  mode={mode}/>
 //      </div>
      
-//      {/* <About/> */}
+//      <About/>
 //      </>
 //      </div>
 //   )
